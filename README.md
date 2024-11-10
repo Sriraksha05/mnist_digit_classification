@@ -1,1 +1,1 @@
-This is digit classification project using Mnist and keras. 
+This is digit classification project using Mnist dataset 
